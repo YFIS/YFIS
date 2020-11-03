@@ -1,0 +1,26 @@
+{
+  "name": "YFIS",
+  "logoURI": "https://raw.githubusercontent.com/YFIS/YFIS/main/Logo256X256.png",
+  "keywords": [
+      "fyis",
+      "YFIS",
+      "yfi"，
+      "YFI"
+    ],
+    "timestamp": "2020-11-03T00:00:00.000Z",
+    "tokens": [
+      {
+      "chainId": 1,
+      "address": "0x564F7cC8A72712818c04F0999342FeA216d65f28",
+      "name": "YFI.S",
+      "symbol": "YFIS",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/YFIS/YFIS/main/Logo256X256.png"
+      }
+    ],
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "patch": 0
+    }
+}
